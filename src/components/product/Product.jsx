@@ -1,5 +1,4 @@
 import React from "react";
-// import { FaHeart, FaShoppingCart, FaStar } from "react-icons/fa";
 import products from "../../static/index";
 import "./Product.css";
 import Stars from "../../assets/stars.svg";
